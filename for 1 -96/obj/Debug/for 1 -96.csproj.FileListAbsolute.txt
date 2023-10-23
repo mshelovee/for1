@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\for 1 -96\for 1 -96\bin\Debug\for 1 -96.exe.config
+C:\Users\User\Desktop\KORUMASIZ\for 1 -96\for 1 -96\bin\Debug\for 1 -96.exe
+C:\Users\User\Desktop\KORUMASIZ\for 1 -96\for 1 -96\bin\Debug\for 1 -96.pdb
+C:\Users\User\Desktop\KORUMASIZ\for 1 -96\for 1 -96\obj\Debug\for 1 -96.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\for 1 -96\for 1 -96\obj\Debug\for 1 -96.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\for 1 -96\for 1 -96\obj\Debug\for_1__96.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\for 1 -96\for 1 -96\obj\Debug\for_1__96.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\for 1 -96\for 1 -96\obj\Debug\for 1 -96.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\for 1 -96\for 1 -96\obj\Debug\for 1 -96.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\for 1 -96\for 1 -96\obj\Debug\for 1 -96.exe
+C:\Users\User\Desktop\KORUMASIZ\for 1 -96\for 1 -96\obj\Debug\for 1 -96.pdb
